@@ -1,0 +1,1 @@
+`Zsteg -a whitebear.png`
